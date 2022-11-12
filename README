@@ -1,0 +1,6 @@
+To run this code: In Windows, open the Command Prompt and run:
+	python Project1.py graph.txt
+
+where:
+Project1.py is the python file that contains main and 
+graph.txt is the name of the input file.
